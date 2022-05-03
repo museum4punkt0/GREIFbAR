@@ -52,6 +52,7 @@ Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins ei
 Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
 
 ![alt text](https://github.com/museum4punkt0/greifbAR/blob/main/grafik.png)
+<img src="https://github.com/museum4punkt0/greifbAR/blob/main/Assets/Images/00_Start/00_Icon_GREIFbAR.png" width="100" height="100">
 
 # Installation
 Zur Benutzung der App werden Smartphones oder Tablets benötigt, die ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android Pie 9.0. Die App kann im Playstore heruntergeladen und installiert werden. https://play.google.com/store/apps/details?id=com.DeutschesMuseum.GREIFbAR&gl=DE
@@ -66,8 +67,8 @@ Alle Grundfunktionen können ohne die PlugIns genutzt werden.
 Werden diese Szenen aus der App entfernt, funktionert die App auch ohne zusätzliche PlugIns. 
 
 # Credits
-Auftraggeber: Deutsches Museum, museum4punkt0
-Konzept: Gabriel von Münchow, Alexander Schmidt
+Auftraggeber: Deutsches Museum, museum4punkt0\
+Konzept: Gabriel von Münchow, Alexander Schmidt\
 Gestaltung & Entwicklung: Gabriel von Münchow
 # Lizenz
 Copyright © 2022, Deutsches Museum\
