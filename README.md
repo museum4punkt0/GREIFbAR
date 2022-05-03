@@ -29,17 +29,20 @@ Das Start-Modul besteht aus einer Intro-Szene mit einer kleinen AR-Sequenz und e
 Alle anderen Module bestehen aus kleineren Menüpunkten, aus Erklärseiten und meist aus AR-Sequenzen. Diese Module sind strukturell fast gleich aufgebaut. 
 Im Asset-Ordner befinden sich alle Dateien der App, die für die Entwicklung wichtig sind. Dabei sind folgende Ordner besonders relevant:
 Animations, ARstuff (jegliche Augmented Reality Inhalte), Images, Scenes und Scripts 
-(Alle Inhalte und Ordner eines Moduls sind mit der Kennziffer des Moduls gekennzeichnet.)
-**Navigation**
+(Alle Inhalte und Ordner eines Moduls sind mit der Kennziffer des Moduls gekennzeichnet.)\
+
+**Navigation**\
 Das Skript „BTTN_Navigation“ ist für die Navigation in der App zuständig (außer im Home-Menü). Das Skript ermöglicht eine lineare Navigation, man kann Erklärbilder und Texte auszutauschen, Objekte ein- und ausblenden und zu einer neuen Szene wechseln. 
-Die restliche Navigation liegt auf den einzelnen Buttons. 
-**Augmented Reality**
+Die restliche Navigation liegt auf den einzelnen Buttons.\
+
+**Augmented Reality**\
 Die App ermöglicht in mehreren Modulen den Einsatz von Augmented Reality und nutzt dabei das Framework „ARFoundation“. 
-Das Plug-In ermöglicht sowohl AR-Oberflächenerkennung wie auch Bildererkennung. 
-**Weitere Plug-Ins**
-Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins eingebunden:
+Das Plug-In ermöglicht sowohl AR-Oberflächenerkennung wie auch Bildererkennung.\
+
+**Weitere Plug-Ins**\
+Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins eingebunden:\
  
-Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
+Zudem liegt hier eine Liste aller notwendigen Frameworks vor:\
  
 
 # Installation
