@@ -33,15 +33,15 @@ Im Asset-Ordner befinden sich alle Dateien der App, die für die Entwicklung wic
 Animations, ARstuff (jegliche Augmented Reality Inhalte), Images, Scenes und Scripts 
 (Alle Inhalte und Ordner eines Moduls sind mit der Kennziffer des Moduls gekennzeichnet.)
 
-**Navigation**\
+**Navigation**
 Das Skript „BTTN_Navigation“ ist für die Navigation in der App zuständig (außer im Home-Menü). Das Skript ermöglicht eine lineare Navigation, man kann Erklärbilder und Texte auszutauschen, Objekte ein- und ausblenden und zu einer neuen Szene wechseln. 
 Die restliche Navigation liegt auf den einzelnen Buttons.
 
-**Augmented Reality**\
+**Augmented Reality**
 Die App ermöglicht in mehreren Modulen den Einsatz von Augmented Reality und nutzt dabei das Framework „ARFoundation“. 
 Das Plug-In ermöglicht sowohl AR-Oberflächenerkennung wie auch Bildererkennung.
 
-**Weitere Plug-Ins**\
+**Weitere Plug-Ins**
 Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins eingebunden:
  
 Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
@@ -53,9 +53,12 @@ Zur Benutzung der App werden Smartphones oder Tablets benötigt, die ein Android
 Das Repository beinhaltet alle Assets der App ohne externe Plug-Ins und Frameworks. Es kann mit der aktuellen Unity 2020.3 LTS Version geöffnet werden. Beim Öffnen sollten alle kostenfreien Frameworks und Libraries nachgeladen werden. Ist das nicht der Fall, sollte der „Package Manager“ mit der obigen Liste abglichen werden. Dabei zeigt die Versionsnummer auf der linken Seite die minimale Version des jeweiligen Frameworks an. Zudem sind für folgende Module kostenpflichtige Plug-Ins notwendig, die im Assetstore von Unity heruntergeladen werden können:
 
 02_Tracking/02_ARGPS benötigt [AR+GPS Location](https://assetstore.unity.com/packages/tools/integration/ar-gps-location-134882#description)
+
 03_Tryit/03_Tryit benötigt [TriLib 2](https://assetstore.unity.com/packages/tools/modeling/trilib-2-model-loading-package-157548#description) und [Native Gallery for Android & iOs](https://assetstore.unity.com/packages/tools/integration/native-gallery-for-android-ios-112630#description)
+
 06_WhyAR /06ARwhy benötigt [Paintz Free](https://assetstore.unity.com/packages/tools/paintz-free-145977#description)
-Alle Grundfunktionen können ohne die PlugIns genutzt werden.
+
+Alle Grundfunktionen können ohne die PlugIns genutzt werden. 
 Werden diese Szenen aus der App entfernt, funktionert die App auch ohne zusätzliche PlugIns. 
 
 # Credits
