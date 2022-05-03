@@ -47,7 +47,8 @@ Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins ei
 - Trilib ermöglicht das hochladen von 3D-Objekten
 - Native Gallery for Android & iOs ermöglicht hochladen von Bildern und Videos
 - AR+GPS Location ermöglicht GPS orientiertes AR
-- Paintz Free ermöglicht 3D-Objekte anzumalen\
+- Paintz Free ermöglicht 3D-Objekte anzumalen
+
 Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
 
 ![alt text](https://github.com/museum4punkt0/greifbAR/blob/main/grafik.png)
