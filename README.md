@@ -9,14 +9,14 @@
 # Kurzbeschreibung
 Augmented Reality (AR) ist ein mächtiges aber auch komplexes Medium. Oft laufen Vorstellungen und Machbarkeit auseinander - Potentiale bleiben ungenutzt. Genau hier setzt die App „GREIFbAR“ an und macht Chancen sowie Herausforderungen dieses Vermittlungswerkzeugs für Kulturinstitutionen und Museen erfahrbar – auch ohne AR-Vorkenntnisse. Durch das gewonnene Verständnis sollen insbesondere im Kultursektor tätige Personen bei der erfolgreichen Umsetzung von AR-Projekten und der effektiven Kommunikation mit Projektpartnern unterstützt werden.\
 Die folgenden acht Module sind gegenwärtig verfügbar und beantworten einige der wichtigsten Fragen rund um Augmented Reality:
-•	Was ist Augmented Reality?
-•	Wozu Augmented Reality?
-•	AR-Inhalt
-•	Tracking
-•	Aufwand
-•	Einsatzmedien
-•	Mit eigenen Inhalten AR selbst erstellen
-•	Beispielprojekte
+-	Was ist Augmented Reality?
+-	Wozu Augmented Reality?
+-	AR-Inhalt
+-	Tracking
+-	Aufwand
+-	Einsatzmedien
+-	Mit eigenen Inhalten AR selbst erstellen
+-	Beispielprojekte
 # Förderhinweis
 Diese native App ist entstanden im  Verbundprojekt  museum4punkt0  –  Digitale  Strategien  für  das  Museum  der  Zukunft, M3 - Deutsches Museum. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:\
 www.museum4punkt0.de
