@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 2ae1715714ed5d94683b38c4305a3082, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 76918566912
+    m_Localized: Hallo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 625315426304
+    m_Localized: Trackingmethoden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16863919878144
+    m_Localized: BLUIB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49730498605056
+    m_Localized: "Augmented Reality (erweiterte Realit\xE4t) reichert die Wahrnehmung
+      der realen Umgebung mit virtuellen Inhalten an. Im Gegensatz zur Virtual Reality
+      (virtuellen Welt) nimmt der Nutzer seine reale Umgebung noch war, erh\xE4lt
+      aber weiterf\xFChrende meist visuelle oder auditive Inhalte. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50086007812096
+    m_Localized: "\n\n\n\n\nVirtual Reality und Augmented Reality sind beides Teil
+      der Mixed Reality. Dabei ist die Mixed Reality ein flie\xDFender \xDCbergang
+      von der Realit\xE4t \xFCber Augmented Reality und Augmented Virtuality bis
+      zur virtuellen Realit\xE4t, bei der die Wahrnehmung von au\xDFen g\xE4nzlich
+      abgeschirmt wird.  Man spricht auch vom Realit\xE4ts-Virtualit\xE4ts-Kontinuum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57710384263168
+    m_Localized: "Nun wird die Realit\xE4t durch einen Sextanten auf einer Vitrine
+      erweitert. \nDieser l\xE4sst nun von allen Seiten betrachten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57714104610816
+    m_Localized: "Durch den Regler l\xE4sst sich nun der Grad der Mixed Reality einstellen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80625788006400
+    m_Localized: "Durch die Kamera unseres Handys wird die reale Welt dargestellt.
+      Augmented Reality erweitert diese Realit\xE4t um virtuelle Inhalte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80673905061888
+    m_Localized: "Schaue dich mit dem Handy um bis eine geeignete F\xE4che am Boden
+      erkannt wurde.   Platziere dann auf der Fl\xE4che den AR Inhalt, indem du auf
+      die Fl\xE4che tippst."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

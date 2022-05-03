@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00_Start/00_Intro.unity
+    guid: c04c06552c20c07439e1214ab81d7448
+  - enabled: 1
+    path: Assets/Scenes/00_Start/00_HomeMenu.unity
+    guid: 6d797263695e327498789c733406d845
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_TrackMenu.unity
+    guid: c2343a2342343314c9952216315cb337
+  - enabled: 1
+    path: Assets/Scenes/99_Sample Scenes/ARImageSample.unity
+    guid: 592a8d7a5271af342b5c715d76abd78a
+  - enabled: 1
+    path: Assets/Scenes/99_Sample Scenes/ARPlaneSample.unity
+    guid: a2cf4f91c97850248a485b508b828ccb
+  - enabled: 1
+    path: Assets/Scenes/01_WhatsAR/01_ARIntro.unity
+    guid: 76720c05f7d045547af60d1f63121b26
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_ARImage.unity
+    guid: e75144ae92ba6584f826048c84ee3fa3
+  - enabled: 1
+    path: Assets/Scenes/01_WhatsAR/01_AROutro.unity
+    guid: c735c9bfd731c954e825d666fcaed17b
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_OverviewImage.unity
+    guid: 829ed448678f4bc4aa99be0bcacf6ff3
+  - enabled: 1
+    path: Assets/Scenes/03_Tryit/03_Tryit.unity
+    guid: 81f4b74a925f2d1448c13d0377ce5afe
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_ARPlane.unity
+    guid: 5b028cfc711376e449e35383ea4308db
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_OverviewPlane.unity
+    guid: 8575f2bc9f4f4f54bbee14042e4f3f5d
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/New Scene.unity
+    guid: 96e05211af9768046826eade1021cc9e
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_ARTypes.unity
+    guid: c476ce12d9948dd42b109ce218c6f640
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_ARContentStart.unity
+    guid: 18fa998778f406c48987f63e315e1f4e
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_Surroundings.unity
+    guid: 6bc43041158df6a4d8d06cf12b5bf163
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_ARTypesTest.unity
+    guid: b27df55123f074e438cbcd84b7d596ff
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_OverviewPosition.unity
+    guid: fc6d54b2f20288c41b18c522b6012afd
+  - enabled: 1
+    path: Assets/Scenes/05_Effort/05_EffortHome.unity
+    guid: 92e88ede9f4d4f34eab582c0173bd370
+  - enabled: 1
+    path: Assets/Scenes/05_Effort/05_EffordMuseum.unity
+    guid: 58f4c7cee31877f4ca9be2d76268fbe4
+  - enabled: 1
+    path: Assets/Scenes/05_Effort/05_EffordMuseum2.unity
+    guid: 5e9f00e68db1f1841bcfb7a56257d000
+  - enabled: 1
+    path: Assets/Scenes/05_Effort/05_EffortDeveloper.unity
+    guid: 0b1a19082d05b9c4cb242adff789d4ac
+  - enabled: 1
+    path: Assets/Scenes/05_Effort/05_EffortHelp.unity
+    guid: 7341ae057c7e63f44b4c224394e29b2a
+  - enabled: 1
+    path: Assets/Scenes/02_Tracking/02_ARGPS.unity
+    guid: 1af7c533041e9f246a803ca7a1dd8731
+  - enabled: 1
+    path: Assets/Scenes/06_WhyAR/06_WhyAR.unity
+    guid: 09d0ad23d2d73714d9f0a2d42b4ac527
+  - enabled: 1
+    path: Assets/Scenes/06_WhyAR/06_Visibilty.unity
+    guid: 3aac29fa66406bb4c842a0d1ea17114d
+  - enabled: 1
+    path: Assets/Scenes/06_WhyAR/06_Context.unity
+    guid: 89ce1dfde370452469932779a0e22822
+  - enabled: 1
+    path: Assets/Scenes/06_WhyAR/06_Interaction.unity
+    guid: 1215e30c5f08cbc46a1467a46a263288
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_Interaktion.unity
+    guid: aedce174bbe77754e96ff6952aafb3e8
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_ARInterakion.unity
+    guid: 2fc947b3fb55e6442a901737f0bce6ed
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_Storytelling.unity
+    guid: 957c6c6e368ad924ca7c4faa38d42329
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_ARStorytelling.unity
+    guid: 0f713613cce5b66439765a23aa5986ed
+  - enabled: 1
+    path: Assets/Scenes/07_Media/07_MediaHome.unity
+    guid: 584e822f4d797474a9a519acc86188ff
+  - enabled: 1
+    path: Assets/Scenes/06_WhyAR/06_ARwhy.unity
+    guid: 46706a02dec2c6847a3170bca4bd3368
+  - enabled: 1
+    path: Assets/Scenes/08_Examples/08_OtherMuseums.unity
+    guid: ffa456c2bf3a2834fa3148e8d77ce7bb
+  - enabled: 1
+    path: Assets/Scenes/07_Media/07_Web.unity
+    guid: cf37952a9cc632b48a9e032e0e55ef98
+  - enabled: 1
+    path: Assets/Scenes/07_Media/07_BringDevice.unity
+    guid: 9af7b94118a4ef54eb9620a607805f9a
+  - enabled: 1
+    path: Assets/Scenes/07_Media/07_ARglasses.unity
+    guid: 9bbc90b849175a94e9782d0ce2f97b10
+  - enabled: 1
+    path: Assets/Scenes/07_Media/07_Comparrison.unity
+    guid: 5daaea334db0a8b4eb2859c8b6b12cfc
+  - enabled: 1
+    path: Assets/Scenes/04_ARContent/04_ARRoom.unity
+    guid: 924a79794873c7341bbec72fe44f1ed5
+  - enabled: 1
+    path: Assets/Scenes/08_Examples/08_M4p0.unity
+    guid: afc30a9a53b4a26429fcdab503e4b928
+  - enabled: 1
+    path: Assets/Scenes/08_Examples/08_DM.unity
+    guid: c8a55fa5843c55e4d886b492504b9257
+  - enabled: 1
+    path: Assets/Scenes/08_Examples/08_ExamMenu.unity
+    guid: 4573135dd358fb746b3cd38800bbd9c3
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2dfab7a88534347f48024778152d90a8,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}

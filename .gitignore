@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -64,14 +64,18 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Plug-Ins
-/[Aa]ssets/ARLocations/
-/[Aa]ssets/Paintz Free/
-/[Aa]ssets/TriLib/
-/[Aa]ssets/Plugins/
+[Aa]ssets/ARLocation/
+[Aa]ssets/ARLocation.meta
+[Aa]ssets/Paintz Free/
+[Aa]ssets/Paintz Free.meta
+[Aa]ssets/TriLib/
+[Aa]ssets/TriLib.meta
+[Aa]ssets/NativeGallery/
+[Aa]ssets/NativeGallery.meta

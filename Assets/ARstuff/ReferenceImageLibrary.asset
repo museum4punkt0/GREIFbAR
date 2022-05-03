@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5489885957860522569
+  m_GuidHigh: 4595922689933596574
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5542188333335137881
+      m_GuidHigh: 13630549608578872504
+    m_SerializedTextureGuid:
+      m_GuidLow: 1546082239787795535
+      m_GuidHigh: 3389712616168476968
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 00_GREIF
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5405142409157017552
+      m_GuidHigh: 16847571059759719348
+    m_SerializedTextureGuid:
+      m_GuidLow: 19416946134636581
+      m_GuidHigh: 4864277951529085864
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Otto
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5377850971658303002
+      m_GuidHigh: 5565243482092352918
+    m_SerializedTextureGuid:
+      m_GuidLow: 329968549066377463
+      m_GuidHigh: 6477137505386959768
+    m_Size: {x: 0.1, y: 0.103539824}
+    m_SpecifySize: 1
+    m_Name: 10euro
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4612575253532493096
+      m_GuidHigh: 18149891838496223374
+    m_SerializedTextureGuid:
+      m_GuidLow: 15264106316701537007
+      m_GuidHigh: 14374660079528265960
+    m_Size: {x: 0.1, y: 0.10333797}
+    m_SpecifySize: 1
+    m_Name: 5euro
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5177033987363341403
+      m_GuidHigh: 17451076296484743825
+    m_SerializedTextureGuid:
+      m_GuidLow: 2032507625267030320
+      m_GuidHigh: 6258037964568455386
+    m_Size: {x: 0.2, y: 0.13325}
+    m_SpecifySize: 1
+    m_Name: TestImageTracking
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4720650509168399317
+      m_GuidHigh: 16776927166107671192
+    m_SerializedTextureGuid:
+      m_GuidLow: 9868773115822341675
+      m_GuidHigh: 10842092243299683179
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: TestImageTracking4
+    m_Texture: {fileID: 0}

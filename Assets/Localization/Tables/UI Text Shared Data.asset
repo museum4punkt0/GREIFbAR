@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 2ae1715714ed5d94683b38c4305a3082
+  m_Entries:
+  - m_Id: 76918566912
+    m_Key: 'Hallo '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 625315426304
+    m_Key: Trackingmethoden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16863919878144
+    m_Key: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49730498605056
+    m_Key: 01WhatsAR00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50086007812096
+    m_Key: 01WhatsAR01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57710384263168
+    m_Key: 01WhatsARPrefab00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57714104610816
+    m_Key: 01WhatsARPrefab01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80625788006400
+    m_Key: 01WhatsAR02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80673905061888
+    m_Key: 01WhatsAR03
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1625561953173

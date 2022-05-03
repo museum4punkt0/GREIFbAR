@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2ae1715714ed5d94683b38c4305a3082, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 76918566912
+    m_Localized: Hello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 625315426304
+    m_Localized: tracking methods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16863919878144
+    m_Localized: BLUB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49730498605056
+    m_Localized: Augmented Reality enriches the perception of the real environment
+      with virtual content. In contrast to virtual reality, the user still perceives
+      the real environment, but receives additional mostly visual or auditory content.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50086007812096
+    m_Localized: "\n\n\n\n\nVirtual Reality und Augmented Reality sind beides Teil
+      der Mixed Reality. Dabei ist die Mixed Reality ein flie\xDFender \xDCbergang
+      von der Realit\xE4t \xFCber Augmented Reality und Augmented Virtuality bis
+      zur virtuellen Realit\xE4t, bei der die Wahrnehmung von au\xDFen g\xE4nzlich
+      abgeschirmt wird.  Man spricht auch vom Realit\xE4ts-Virtualit\xE4ts-Kontinuum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57714104610816
+    m_Localized: The slider can now be used to set the degree of mixed reality.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57710384263168
+    m_Localized: 'Now reality is enhanced by a sextant on a display case.
+
+      It
+      can be abserved from all angles.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80625788006400
+    m_Localized: The real world is shown through the camera of our cell phone. Augmented
+      Reality extends this reality with virtual content.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80673905061888
+    m_Localized: Look around with your mobile phone until a suitable surface on the
+      floor is recognized. Then place the AR content on the surface by tapping on
+      the surface.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
