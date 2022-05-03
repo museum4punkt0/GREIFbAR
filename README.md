@@ -1,8 +1,8 @@
-GREIFbAR App – Augmented Reality im Museum anschaulich erklärt
+**GREIFbAR App – Augmented Reality im Museum anschaulich erklärt**
 ## Inhaltsverzeichnis 
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis) 
-* [Technische Dokumentation](# Technische Dokumentation) 
+* [Technische Dokumentation](#Technische Dokumentation) 
 * [Installation](#Installation) 
 * [Credits](#Credits) 
 * [Lizenz](#Lizenz)
