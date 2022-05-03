@@ -7,10 +7,10 @@
 * [Credits](#Credits) 
 * [Lizenz](#Lizenz)
 # Kurzbeschreibung
-Augmented Reality (AR) ist ein mächtiges aber auch komplexes Medium. Oft laufen Vorstellungen und Machbarkeit auseinander - Potentiale bleiben ungenutzt. Genau hier setzt die App „GREIFbAR“ an und macht Chancen sowie Herausforderungen dieses Vermittlungswerkzeugs für Kulturinstitutionen und Museen erfahrbar – auch ohne AR-Vorkenntnisse. Durch das gewonnene Verständnis sollen insbesondere im Kultursektor tätige Personen bei der erfolgreichen Umsetzung von AR-Projekten und der effektiven Kommunikation mit Projektpartnern unterstützt werden.
+Augmented Reality (AR) ist ein mächtiges aber auch komplexes Medium. Oft laufen Vorstellungen und Machbarkeit auseinander - Potentiale bleiben ungenutzt. Genau hier setzt die App „GREIFbAR“ an und macht Chancen sowie Herausforderungen dieses Vermittlungswerkzeugs für Kulturinstitutionen und Museen erfahrbar – auch ohne AR-Vorkenntnisse. Durch das gewonnene Verständnis sollen insbesondere im Kultursektor tätige Personen bei der erfolgreichen Umsetzung von AR-Projekten und der effektiven Kommunikation mit Projektpartnern unterstützt werden.\
 Die folgenden acht Module sind gegenwärtig verfügbar und beantworten einige der wichtigsten Fragen rund um Augmented Reality:
 •	Was ist Augmented Reality?
-•	Wozu Augmented Reality? 
+•	Wozu Augmented Reality?
 •	AR-Inhalt
 •	Tracking
 •	Aufwand
@@ -18,16 +18,16 @@ Die folgenden acht Module sind gegenwärtig verfügbar und beantworten einige de
 •	Mit eigenen Inhalten AR selbst erstellen
 •	Beispielprojekte
 # Förderhinweis
-Diese native App ist entstanden im  Verbundprojekt  museum4punkt0  –  Digitale  Strategien  für  das  Museum  der  Zukunft, M3 - Deutsches Museum. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:
+Diese native App ist entstanden im  Verbundprojekt  museum4punkt0  –  Digitale  Strategien  für  das  Museum  der  Zukunft, M3 - Deutsches Museum. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:\
 www.museum4punkt0.de
 
 ![alt text](https://github.com/museum4punkt0/media_storage/blob/2c46af6cb625a2560f39b01ecb8c4c360733811c/BKM_Fz_2017_Web_de.gif) ![alt text](https://github.com/museum4punkt0/media_storage/blob/e87f37973c3d91e2762d74d51bed81de5026e06e/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
    
 # Dokumentation
 GREIFbAR wurde in der Entwicklungsumgebung Unity umgesetzt. Unity bietet 
-Aufbau der App und des Projekts
+**Aufbau der App und des Projekts**\
 Die App ist aus einem Start-Modul und acht weiteren Inhaltsmodulen aufgebaut (Alle Module haben eine Kennziffer): Start(00), WhatsAR(01), Tracking(02), Tryit(03), ARContent(04), Effort(05), WhyAR(06), Media(07), Examples (08). 
-Das Start-Modul besteht aus einer Intro-Szene mit einer kleinen AR-Sequenz und einer Home-Szene, die das Menü der App darstellt. (Skripte und Struktur unterscheiden sich von den anderen Modulen)
+Das Start-Modul besteht aus einer Intro-Szene mit einer kleinen AR-Sequenz und einer Home-Szene, die das Menü der App darstellt. (Skripte und Struktur unterscheiden sich von den anderen Modulen)\
 Alle anderen Module bestehen aus kleineren Menüpunkten, aus Erklärseiten und meist aus AR-Sequenzen. Diese Module sind strukturell fast gleich aufgebaut. 
 Im Asset-Ordner befinden sich alle Dateien der App, die für die Entwicklung wichtig sind. Dabei sind folgende Ordner besonders relevant:
 Animations, ARstuff (jegliche Augmented Reality Inhalte), Images, Scenes und Scripts 
