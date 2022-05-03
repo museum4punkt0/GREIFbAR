@@ -1,4 +1,4 @@
-# **GREIFbAR App – Augmented Reality im Museum anschaulich erklärt**
+# GREIFbAR App – Augmented Reality im Museum anschaulich erklärt
 ## Inhaltsverzeichnis 
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis) 
@@ -21,7 +21,7 @@ Die folgenden acht Module sind gegenwärtig verfügbar und beantworten einige de
 Diese native App ist entstanden im  Verbundprojekt  museum4punkt0  –  Digitale  Strategien  für  das  Museum  der  Zukunft, M3 - Deutsches Museum. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:
 www.museum4punkt0.de
    
-# Technische Dokumentation
+# Dokumentation
 GREIFbAR wurde in der Entwicklungsumgebung Unity umgesetzt. Unity bietet 
 Aufbau der App und des Projekts
 Die App ist aus einem Start-Modul und acht weiteren Inhaltsmodulen aufgebaut (Alle Module haben eine Kennziffer): Start(00), WhatsAR(01), Tracking(02), Tryit(03), ARContent(04), Effort(05), WhyAR(06), Media(07), Examples (08). 
@@ -30,13 +30,13 @@ Alle anderen Module bestehen aus kleineren Menüpunkten, aus Erklärseiten und m
 Im Asset-Ordner befinden sich alle Dateien der App, die für die Entwicklung wichtig sind. Dabei sind folgende Ordner besonders relevant:
 Animations, ARstuff (jegliche Augmented Reality Inhalte), Images, Scenes und Scripts 
 (Alle Inhalte und Ordner eines Moduls sind mit der Kennziffer des Moduls gekennzeichnet.)
-## Navigation 
+**Navigation**
 Das Skript „BTTN_Navigation“ ist für die Navigation in der App zuständig (außer im Home-Menü). Das Skript ermöglicht eine lineare Navigation, man kann Erklärbilder und Texte auszutauschen, Objekte ein- und ausblenden und zu einer neuen Szene wechseln. 
 Die restliche Navigation liegt auf den einzelnen Buttons. 
-## Augmented Reality
+**Augmented Reality**
 Die App ermöglicht in mehreren Modulen den Einsatz von Augmented Reality und nutzt dabei das Framework „ARFoundation“. 
 Das Plug-In ermöglicht sowohl AR-Oberflächenerkennung wie auch Bildererkennung. 
-## Weitere Plug-Ins
+**Weitere Plug-Ins**
 Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins eingebunden:
  
 Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
