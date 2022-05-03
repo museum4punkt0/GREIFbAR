@@ -24,7 +24,7 @@ www.museum4punkt0.de
 ![alt text](https://github.com/museum4punkt0/media_storage/blob/2c46af6cb625a2560f39b01ecb8c4c360733811c/BKM_Fz_2017_Web_de.gif) ![alt text](https://github.com/museum4punkt0/media_storage/blob/e87f37973c3d91e2762d74d51bed81de5026e06e/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
    
 # Dokumentation
-GREIFbAR wurde in der Entwicklungsumgebung Unity umgesetzt. Unity bietet 
+GREIFbAR wurde in der Entwicklungsumgebung Unity umgesetzt.\
 **Aufbau der App und des Projekts**\
 Die App ist aus einem Start-Modul und acht weiteren Inhaltsmodulen aufgebaut (Alle Module haben eine Kennziffer): Start(00), WhatsAR(01), Tracking(02), Tryit(03), ARContent(04), Effort(05), WhyAR(06), Media(07), Examples (08). 
 Das Start-Modul besteht aus einer Intro-Szene mit einer kleinen AR-Sequenz und einer Home-Szene, die das Menü der App darstellt. (Skripte und Struktur unterscheiden sich von den anderen Modulen)\
