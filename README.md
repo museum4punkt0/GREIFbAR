@@ -43,10 +43,14 @@ Die App ermöglicht in mehreren Modulen den Einsatz von Augmented Reality und nu
 Das Plug-In ermöglicht sowohl AR-Oberflächenerkennung wie auch Bildererkennung.
 
 **Weitere Plug-Ins**\
-Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins eingebunden:
-
+Neben den AR-Plug-Ins und Frameworks wurden weitere kostenpflichtige Plug-Ins eingebunden:\
+- Trilib ermöglicht das hochladen von 3D-Objekten
+- Native Gallery for Android & iOs ermöglicht hochladen von Bildern und Videos
+- AR+GPS Location ermöglicht GPS orientiertes AR
+- Paintz Free ermöglicht 3D-Objekte anzumalen
 Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
- ![alt text](https://github.com/museum4punkt0/greifbAR/blob/main/grafik.png)
+
+![alt text](https://github.com/museum4punkt0/greifbAR/blob/main/grafik.png)
 
 # Installation
 Zur Benutzung der App werden Smartphones oder Tablets benötigt, die ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android Pie 9.0. Die App kann im Playstore heruntergeladen und installiert werden. https://play.google.com/store/apps/details?id=com.DeutschesMuseum.GREIFbAR&gl=DE
