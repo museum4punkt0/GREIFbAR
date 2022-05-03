@@ -51,7 +51,7 @@ Zudem liegt hier eine Liste aller notwendigen Frameworks vor:
 Zur Benutzung der App werden Smartphones oder Tablets benötigt, die ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android Pie 9.0. Die App kann im Playstore heruntergeladen und installiert werden. https://play.google.com/store/apps/details?id=com.DeutschesMuseum.GREIFbAR&gl=DE
 Das Repository beinhaltet alle Assets der App ohne externe Plug-Ins und Frameworks. Es kann mit der aktuellen Unity 2020.3 LTS Version geöffnet werden. Beim Öffnen sollten alle kostenfreien Frameworks und Libraries nachgeladen werden. Ist das nicht der Fall, sollte der „Package Manager“ mit der obigen Liste abglichen werden. Dabei zeigt die Versionsnummer auf der linken Seite die minimale Version des jeweiligen Frameworks an. Zudem sind für folgende Module kostenpflichtige Plug-Ins notwendig, die im Assetstore von Unity heruntergeladen werden können:
 02_Tracking/02_ARGPS benötigt “AR+GPS Location”
-03_Tryit/03_Tryit benötigt “TriLib 2” und “Native Gallery for Android & iOs”
+03_Tryit/03_Tryit benötigt [TriLib 2](https://assetstore.unity.com/packages/tools/modeling/trilib-2-model-loading-package-157548#description) und “Native Gallery for Android & iOs”
 06_WhyAR /06ARwhy benötigt “Paintz Free”
 Alle Grundfunktionen können ohne die PlugIns genutzt werden.
 Werden diese Szenen aus der App entfernt, funktionert die App auch ohne zusätzliche PlugIns. 
