@@ -1,4 +1,5 @@
 # GREIFbAR App – Augmented Reality im Museum anschaulich erklärt
+![alt text](https://github.com/museum4punkt0/greifbAR/blob/main/Assets/Images/00_Start/00_LOGO_GREIFbAR.png)
 ## Inhaltsverzeichnis 
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis) 
