@@ -64,8 +64,13 @@ Das Repository beinhaltet alle Assets der App ohne externe Plug-Ins und Framewor
 03_Tryit/03_Tryit benötigt [TriLib 2](https://assetstore.unity.com/packages/tools/modeling/trilib-2-model-loading-package-157548#description) und [Native Gallery for Android & iOs](https://assetstore.unity.com/packages/tools/integration/native-gallery-for-android-ios-112630#description)\
 06_WhyAR /06ARwhy benötigt [Paintz Free](https://assetstore.unity.com/packages/tools/paintz-free-145977#description)
 
-Alle Grundfunktionen können ohne die PlugIns genutzt werden. 
-Werden diese Szenen aus der App entfernt, funktionert die App auch ohne zusätzliche PlugIns. 
+Alle Grundfunktionen können ohne die PlugIns genutzt werden.\
+Ohne kostenpflichtige Plug-Ins müssen folgende Szenen und Skripte ersetzt oder entfernt werden:
+
+Werden folgende Szenen und Scripte ersetzt oder entfernt, funktionert die App auch ohne zusätzliche PlugIns. 
+- Szene: 02_Tracking/02_ARGPS + Skripte: OwnLocations + SizeWithDist_02
+- Szene: 03_Tryit/03_Tryit + AssetIMGLoader_03
+- Szene: 06_WhyAR /06ARwhy
 
 # Credits
 Auftraggeber: Deutsches Museum, museum4punkt0\
