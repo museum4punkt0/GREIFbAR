@@ -72,6 +72,8 @@ Werden folgende Szenen und Scripte ersetzt oder entfernt, funktionert die App au
 - Szene: 03_Tryit/03_Tryit + AssetIMGLoader_03
 - Szene: 06_WhyAR /06ARwhy
 
+Zudem muss in den Playersettings "Custom Keystore" deaktiviert werden. 
+
 # Credits
 Auftraggeber: Deutsches Museum, museum4punkt0\
 Konzept: Gabriel von Münchow, Alexander Schmidt\
